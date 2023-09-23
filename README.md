@@ -1,6 +1,6 @@
 # Learn Boomi
 
-Interested to learn Boomi, a modern #ipaas solution, for FREE? 🚀
+Interested to learn Boomi, a modern iPaaS solution, for FREE? 🚀
 
 All you need is a corporate account and visit the link https://community.boomi.com/s/learning-library
 
