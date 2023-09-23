@@ -1,4 +1,4 @@
-# learn-boomi
+# Learn Boomi
 
 Interested to learn Boomi, a modern #ipaas solution? 🚀
 
@@ -6,7 +6,7 @@ All you need is a corporate account and learn Boomi for FREE!!!
 
 The link is https://community.boomi.com/s/learning-library
 
-📚 Learning Path:
+📚 **Learning Path:**
 1. Start with Integration Essentials course.
 
 2. Move on to Associate Integration Developer course and complete the Associate Developer Certification exam. Complete any other prerequisite if required for this certification.
@@ -17,6 +17,4 @@ The link is https://community.boomi.com/s/learning-library
 
 5. After this, you can go ahead with any of Administrator, API Management, Master Data Hub, EDI/B2B, or, DCP, as per your interest or project requirement.
 
-Happy Learning 🔰 
-
-#boomi #boomicertified #goboomiit #integration #middleware #integrationplatform #integrationdeveloper 
+Happy Learning 🔰
