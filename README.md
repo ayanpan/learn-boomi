@@ -15,7 +15,7 @@ All you need is a corporate account and visit the link https://community.boomi.c
 
 5. After this, you can go ahead with any of Administrator, API Management, Master Data Hub, EDI/B2B, or, DCP, as per your interest or project requirement.
 
-Please refer the below image for reference.
+Please refer the below image for more details on the learning and certification paths.
 
 ![image](https://github.com/ayanpan/learn-boomi/assets/12267939/89dc2df7-a790-4832-b64f-23e5fb81f980)
 
