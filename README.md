@@ -17,8 +17,9 @@ All you need is a corporate account and visit the link - https://train.boomi.com
 
 Please refer the below image for more details on the learning and certification paths.
 
-![image](https://github.com/user-attachments/assets/21e69889-20e2-4294-9ed9-44dbc394dfff)
+![image](https://github.com/user-attachments/assets/6ede16f6-4d07-42c5-8706-0bb27c6b3e39)
 
 *Image Credits: Boomi (https://boomi.com/)*
 
 Happy Learning 🔰
+
