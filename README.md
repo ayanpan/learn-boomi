@@ -2,7 +2,7 @@
 
 Interested to learn Boomi, a modern iPaaS solution, for FREE? 🚀
 
-All you need is a corporate account and visit the link - https://train.boomi.com/
+All you need is a corporate account and visit the link - https://train.boomi.com
 
 📚 **Learning Path:**
 1. Start with the Integration Essentials course.
@@ -13,13 +13,13 @@ All you need is a corporate account and visit the link - https://train.boomi.com
 
 4. Go ahead with the Development and Application Architecture course and complete the Development and Application Architecture Certification exam. Complete any other prerequisite if required for this certification.
 
-5. After this, you can go ahead with any of Administrator, API Management, Master Data Hub, EDI/B2B, or, DCP, as per your interest and/or project requirement.
+5. After this, you can go ahead with any of Administrator, API Management, Master Data Hub, EDI/B2B, or, DCP, as per your interest and/or project requirement. Alternately, you can go ahead with Role Based Path through the link - https://community.boomi.com/s/rbp-landing-page 
 
 Please refer the below image for more details on the learning and certification paths.
 
 ![image](https://github.com/user-attachments/assets/6ede16f6-4d07-42c5-8706-0bb27c6b3e39)
 
-*Image Credits: Boomi (https://boomi.com/)*
+*Image Credits: Boomi (https://boomi.com)*
 
 Happy Learning 🔰
 
